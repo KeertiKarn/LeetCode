@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## String
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/KeertiKarn/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
