@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KeertiKarn/LeetCode/tree/master/0217-contains-duplicate) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KeertiKarn/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/KeertiKarn/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2109-adding-spaces-to-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/KeertiKarn/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/KeertiKarn/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [1004-max-consecutive-ones-iii](https://github.com/KeertiKarn/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/KeertiKarn/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/KeertiKarn/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
