@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KeertiKarn/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KeertiKarn/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KeertiKarn/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2109-adding-spaces-to-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
