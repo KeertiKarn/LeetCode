@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KeertiKarn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KeertiKarn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/KeertiKarn/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KeertiKarn/LeetCode/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KeertiKarn/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/KeertiKarn/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KeertiKarn/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KeertiKarn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/KeertiKarn/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/KeertiKarn/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KeertiKarn/LeetCode/tree/master/0509-fibonacci-number) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KeertiKarn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KeertiKarn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/KeertiKarn/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KeertiKarn/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
