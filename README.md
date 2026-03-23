@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KeertiKarn/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KeertiKarn/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/KeertiKarn/LeetCode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/KeertiKarn/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KeertiKarn/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KeertiKarn/LeetCode/tree/master/0443-string-compression) |
+| [0763-partition-labels](https://github.com/KeertiKarn/LeetCode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KeertiKarn/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KeertiKarn/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KeertiKarn/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/KeertiKarn/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0763-partition-labels](https://github.com/KeertiKarn/LeetCode/tree/master/0763-partition-labels) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KeertiKarn/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/KeertiKarn/LeetCode/tree/master/0605-can-place-flowers) |
+| [0763-partition-labels](https://github.com/KeertiKarn/LeetCode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/KeertiKarn/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KeertiKarn/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
