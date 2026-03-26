@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/KeertiKarn/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KeertiKarn/LeetCode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/KeertiKarn/LeetCode/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/KeertiKarn/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/KeertiKarn/LeetCode/tree/master/0767-reorganize-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/KeertiKarn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeertiKarn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/KeertiKarn/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KeertiKarn/LeetCode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KeertiKarn/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -262,12 +264,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KeertiKarn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/KeertiKarn/LeetCode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/KeertiKarn/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/KeertiKarn/LeetCode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/KeertiKarn/LeetCode/tree/master/0605-can-place-flowers) |
