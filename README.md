@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KeertiKarn/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting Sort
 |  |
 | ------- |
