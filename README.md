@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2109-adding-spaces-to-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2315-count-asterisks](https://github.com/KeertiKarn/LeetCode/tree/master/2315-count-asterisks) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KeertiKarn/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
 |  |
 | ------- |
