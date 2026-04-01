@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/KeertiKarn/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KeertiKarn/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KeertiKarn/LeetCode/tree/master/0392-is-subsequence) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/KeertiKarn/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KeertiKarn/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KeertiKarn/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KeertiKarn/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeertiKarn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/KeertiKarn/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/KeertiKarn/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/KeertiKarn/LeetCode/tree/master/0507-perfect-number) |
