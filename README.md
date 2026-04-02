@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1936-add-minimum-number-of-rungs](https://github.com/KeertiKarn/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KeertiKarn/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/KeertiKarn/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/KeertiKarn/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/KeertiKarn/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/KeertiKarn/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KeertiKarn/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1753-maximum-score-from-removing-stones](https://github.com/KeertiKarn/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/KeertiKarn/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1936-add-minimum-number-of-rungs](https://github.com/KeertiKarn/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KeertiKarn/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
