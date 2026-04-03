@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/KeertiKarn/LeetCode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
+| [0870-advantage-shuffle](https://github.com/KeertiKarn/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/KeertiKarn/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1754-largest-merge-of-two-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KeertiKarn/LeetCode/tree/master/0739-daily-temperatures) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/KeertiKarn/LeetCode/tree/master/0860-lemonade-change) |
+| [0870-advantage-shuffle](https://github.com/KeertiKarn/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/KeertiKarn/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/KeertiKarn/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KeertiKarn/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/KeertiKarn/LeetCode/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
+| [0870-advantage-shuffle](https://github.com/KeertiKarn/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/KeertiKarn/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KeertiKarn/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/KeertiKarn/LeetCode/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/KeertiKarn/LeetCode/tree/master/0860-lemonade-change) |
+| [0870-advantage-shuffle](https://github.com/KeertiKarn/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/KeertiKarn/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KeertiKarn/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KeertiKarn/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
