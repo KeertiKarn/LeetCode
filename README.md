@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KeertiKarn/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KeertiKarn/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/KeertiKarn/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KeertiKarn/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KeertiKarn/LeetCode/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KeertiKarn/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KeertiKarn/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KeertiKarn/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0763-partition-labels](https://github.com/KeertiKarn/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/KeertiKarn/LeetCode/tree/master/0767-reorganize-string) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KeertiKarn/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/KeertiKarn/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/KeertiKarn/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/KeertiKarn/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0658-find-k-closest-elements) |
