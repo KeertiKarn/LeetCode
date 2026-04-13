@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/KeertiKarn/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1936-add-minimum-number-of-rungs](https://github.com/KeertiKarn/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/KeertiKarn/LeetCode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [2032-two-out-of-three](https://github.com/KeertiKarn/LeetCode/tree/master/2032-two-out-of-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KeertiKarn/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/KeertiKarn/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2032-two-out-of-three](https://github.com/KeertiKarn/LeetCode/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/KeertiKarn/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2352-equal-row-and-column-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/KeertiKarn/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/KeertiKarn/LeetCode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/KeertiKarn/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [2032-two-out-of-three](https://github.com/KeertiKarn/LeetCode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/KeertiKarn/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
