@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/KeertiKarn/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1936-add-minimum-number-of-rungs](https://github.com/KeertiKarn/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/KeertiKarn/LeetCode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/KeertiKarn/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2032-two-out-of-three](https://github.com/KeertiKarn/LeetCode/tree/master/2032-two-out-of-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KeertiKarn/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/KeertiKarn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1936-add-minimum-number-of-rungs](https://github.com/KeertiKarn/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/KeertiKarn/LeetCode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/KeertiKarn/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KeertiKarn/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/KeertiKarn/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1753-maximum-score-from-removing-stones](https://github.com/KeertiKarn/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/KeertiKarn/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Game Theory
 |  |
