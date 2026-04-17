@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/KeertiKarn/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/KeertiKarn/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/KeertiKarn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
