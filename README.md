@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KeertiKarn/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/KeertiKarn/LeetCode/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KeertiKarn/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KeertiKarn/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KeertiKarn/LeetCode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KeertiKarn/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/KeertiKarn/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1544-make-the-string-great](https://github.com/KeertiKarn/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2751-robot-collisions](https://github.com/KeertiKarn/LeetCode/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
