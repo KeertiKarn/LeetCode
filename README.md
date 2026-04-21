@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/KeertiKarn/LeetCode/tree/master/2751-robot-collisions) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KeertiKarn/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Simulation
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KeertiKarn/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Recursion
 |  |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/KeertiKarn/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting Sort
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/KeertiKarn/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KeertiKarn/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Game Theory
 |  |
 | ------- |
