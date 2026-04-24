@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/KeertiKarn/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KeertiKarn/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/KeertiKarn/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [0954-array-of-doubled-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/KeertiKarn/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/KeertiKarn/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/KeertiKarn/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/KeertiKarn/LeetCode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/KeertiKarn/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0954-array-of-doubled-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [1054-distant-barcodes](https://github.com/KeertiKarn/LeetCode/tree/master/1054-distant-barcodes) |
 | [1189-maximum-number-of-balloons](https://github.com/KeertiKarn/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/KeertiKarn/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/KeertiKarn/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KeertiKarn/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0954-array-of-doubled-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/KeertiKarn/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1054-distant-barcodes](https://github.com/KeertiKarn/LeetCode/tree/master/1054-distant-barcodes) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/KeertiKarn/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KeertiKarn/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KeertiKarn/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0954-array-of-doubled-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/KeertiKarn/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
