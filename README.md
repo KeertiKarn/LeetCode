@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/KeertiKarn/LeetCode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KeertiKarn/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/KeertiKarn/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KeertiKarn/LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeertiKarn/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/KeertiKarn/LeetCode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KeertiKarn/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/KeertiKarn/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/KeertiKarn/LeetCode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/KeertiKarn/LeetCode/tree/master/0811-subdomain-visit-count) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/KeertiKarn/LeetCode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KeertiKarn/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KeertiKarn/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KeertiKarn/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2121-intervals-between-identical-elements](https://github.com/KeertiKarn/LeetCode/tree/master/2121-intervals-between-identical-elements) |
