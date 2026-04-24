@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/KeertiKarn/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2270-number-of-ways-to-split-array](https://github.com/KeertiKarn/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2295-replace-elements-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/KeertiKarn/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KeertiKarn/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/KeertiKarn/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2121-intervals-between-identical-elements](https://github.com/KeertiKarn/LeetCode/tree/master/2121-intervals-between-identical-elements) |
+| [2270-number-of-ways-to-split-array](https://github.com/KeertiKarn/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2615-sum-of-distances](https://github.com/KeertiKarn/LeetCode/tree/master/2615-sum-of-distances) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KeertiKarn/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Dynamic Programming
