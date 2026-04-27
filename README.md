@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KeertiKarn/LeetCode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/KeertiKarn/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/KeertiKarn/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KeertiKarn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/KeertiKarn/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KeertiKarn/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KeertiKarn/LeetCode/tree/master/0070-climbing-stairs) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KeertiKarn/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/KeertiKarn/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/KeertiKarn/LeetCode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/KeertiKarn/LeetCode/tree/master/0316-remove-duplicate-letters) |
