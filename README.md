@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/KeertiKarn/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3884-first-matching-character-from-both-ends](https://github.com/KeertiKarn/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/KeertiKarn/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
+| [3884-first-matching-character-from-both-ends](https://github.com/KeertiKarn/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
 | ------- |
