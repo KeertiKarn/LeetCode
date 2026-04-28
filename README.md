@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KeertiKarn/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KeertiKarn/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1668-maximum-repeating-substring](https://github.com/KeertiKarn/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/KeertiKarn/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1754-largest-merge-of-two-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KeertiKarn/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/KeertiKarn/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KeertiKarn/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1668-maximum-repeating-substring](https://github.com/KeertiKarn/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Counting
 |  |
 | ------- |
@@ -622,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KeertiKarn/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/KeertiKarn/LeetCode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
