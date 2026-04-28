@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/KeertiKarn/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/KeertiKarn/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
+| [0849-maximize-distance-to-closest-person](https://github.com/KeertiKarn/LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0860-lemonade-change](https://github.com/KeertiKarn/LeetCode/tree/master/0860-lemonade-change) |
 | [0870-advantage-shuffle](https://github.com/KeertiKarn/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/KeertiKarn/LeetCode/tree/master/0875-koko-eating-bananas) |
