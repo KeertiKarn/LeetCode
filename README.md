@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2364-count-number-of-bad-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/KeertiKarn/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KeertiKarn/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KeertiKarn/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KeertiKarn/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/KeertiKarn/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
