@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KeertiKarn/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/KeertiKarn/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/KeertiKarn/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0822-card-flipping-game](https://github.com/KeertiKarn/LeetCode/tree/master/0822-card-flipping-game) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/KeertiKarn/LeetCode/tree/master/0846-hand-of-straights) |
 | [0849-maximize-distance-to-closest-person](https://github.com/KeertiKarn/LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/KeertiKarn/LeetCode/tree/master/0767-reorganize-string) |
 | [0804-unique-morse-code-words](https://github.com/KeertiKarn/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/KeertiKarn/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0822-card-flipping-game](https://github.com/KeertiKarn/LeetCode/tree/master/0822-card-flipping-game) |
 | [0846-hand-of-straights](https://github.com/KeertiKarn/LeetCode/tree/master/0846-hand-of-straights) |
 | [0954-array-of-doubled-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [1054-distant-barcodes](https://github.com/KeertiKarn/LeetCode/tree/master/1054-distant-barcodes) |
