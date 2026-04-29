@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/KeertiKarn/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2615-sum-of-distances](https://github.com/KeertiKarn/LeetCode/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/KeertiKarn/LeetCode/tree/master/2751-robot-collisions) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/KeertiKarn/LeetCode/tree/master/2615-sum-of-distances) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/KeertiKarn/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/KeertiKarn/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2833-furthest-point-from-origin](https://github.com/KeertiKarn/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Memoization
 |  |
