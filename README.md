@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/KeertiKarn/LeetCode/tree/master/0031-next-permutation) |
+| [0047-permutations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KeertiKarn/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KeertiKarn/LeetCode/tree/master/0055-jump-game) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KeertiKarn/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/KeertiKarn/LeetCode/tree/master/0217-contains-duplicate) |
@@ -685,4 +687,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KeertiKarn/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
