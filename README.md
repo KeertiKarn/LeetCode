@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3477-fruits-into-baskets-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/KeertiKarn/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KeertiKarn/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2751-robot-collisions](https://github.com/KeertiKarn/LeetCode/tree/master/2751-robot-collisions) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/KeertiKarn/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3477-fruits-into-baskets-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KeertiKarn/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/KeertiKarn/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -697,4 +700,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0047-permutations-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
