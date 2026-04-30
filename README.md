@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/KeertiKarn/LeetCode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KeertiKarn/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/KeertiKarn/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/KeertiKarn/LeetCode/tree/master/0476-number-complement) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeertiKarn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/KeertiKarn/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/KeertiKarn/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/KeertiKarn/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/KeertiKarn/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KeertiKarn/LeetCode/tree/master/0509-fibonacci-number) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/KeertiKarn/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/KeertiKarn/LeetCode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KeertiKarn/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Depth-First Search
