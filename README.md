@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KeertiKarn/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/KeertiKarn/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3848-check-digitorial-permutation](https://github.com/KeertiKarn/LeetCode/tree/master/3848-check-digitorial-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/KeertiKarn/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
+| [3848-check-digitorial-permutation](https://github.com/KeertiKarn/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3889-mirror-frequency-distance](https://github.com/KeertiKarn/LeetCode/tree/master/3889-mirror-frequency-distance) |
 ## Memoization
 |  |
