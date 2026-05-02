@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1400-construct-k-palindrome-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
+| [1405-longest-happy-string](https://github.com/KeertiKarn/LeetCode/tree/master/1405-longest-happy-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/KeertiKarn/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KeertiKarn/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/KeertiKarn/LeetCode/tree/master/1544-make-the-string-great) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1400-construct-k-palindrome-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KeertiKarn/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1405-longest-happy-string](https://github.com/KeertiKarn/LeetCode/tree/master/1405-longest-happy-string) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/KeertiKarn/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/KeertiKarn/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KeertiKarn/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/KeertiKarn/LeetCode/tree/master/1054-distant-barcodes) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1405-longest-happy-string](https://github.com/KeertiKarn/LeetCode/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/KeertiKarn/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1753-maximum-score-from-removing-stones](https://github.com/KeertiKarn/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
