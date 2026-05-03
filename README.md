@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/KeertiKarn/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KeertiKarn/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/KeertiKarn/LeetCode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeertiKarn/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/KeertiKarn/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/KeertiKarn/LeetCode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/KeertiKarn/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KeertiKarn/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0788-rotated-digits) |
