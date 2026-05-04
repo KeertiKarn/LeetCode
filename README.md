@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/KeertiKarn/LeetCode/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/KeertiKarn/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KeertiKarn/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KeertiKarn/LeetCode/tree/master/0055-jump-game) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KeertiKarn/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KeertiKarn/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/KeertiKarn/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/KeertiKarn/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KeertiKarn/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeertiKarn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KeertiKarn/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
