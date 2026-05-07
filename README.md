@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KeertiKarn/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/KeertiKarn/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KeertiKarn/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1881-maximum-value-after-insertion](https://github.com/KeertiKarn/LeetCode/tree/master/1881-maximum-value-after-insertion) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/KeertiKarn/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/KeertiKarn/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KeertiKarn/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/KeertiKarn/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KeertiKarn/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KeertiKarn/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KeertiKarn/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KeertiKarn/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KeertiKarn/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KeertiKarn/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/KeertiKarn/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2121-intervals-between-identical-elements](https://github.com/KeertiKarn/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2270-number-of-ways-to-split-array](https://github.com/KeertiKarn/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
