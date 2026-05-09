@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KeertiKarn/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KeertiKarn/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KeertiKarn/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KeertiKarn/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/KeertiKarn/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KeertiKarn/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1400-construct-k-palindrome-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KeertiKarn/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KeertiKarn/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KeertiKarn/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KeertiKarn/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/KeertiKarn/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/KeertiKarn/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/KeertiKarn/LeetCode/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KeertiKarn/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/KeertiKarn/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KeertiKarn/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
