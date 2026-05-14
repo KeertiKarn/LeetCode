@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KeertiKarn/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
+| [2942-find-words-containing-character](https://github.com/KeertiKarn/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3110-score-of-a-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/KeertiKarn/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2751-robot-collisions](https://github.com/KeertiKarn/LeetCode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/KeertiKarn/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2942-find-words-containing-character](https://github.com/KeertiKarn/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3028-ant-on-the-boundary](https://github.com/KeertiKarn/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
