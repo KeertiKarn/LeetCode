@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3819-rotate-non-negative-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3819-rotate-non-negative-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/KeertiKarn/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3477-fruits-into-baskets-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3819-rotate-non-negative-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3819-rotate-non-negative-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/KeertiKarn/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2751-robot-collisions](https://github.com/KeertiKarn/LeetCode/tree/master/2751-robot-collisions) |
+| [3834-merge-adjacent-equal-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
