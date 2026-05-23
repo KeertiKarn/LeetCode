@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/KeertiKarn/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KeertiKarn/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/KeertiKarn/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/KeertiKarn/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/0409-longest-palindrome) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/KeertiKarn/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/KeertiKarn/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/KeertiKarn/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/KeertiKarn/LeetCode/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/KeertiKarn/LeetCode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/KeertiKarn/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KeertiKarn/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
