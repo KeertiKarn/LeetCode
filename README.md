@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KeertiKarn/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KeertiKarn/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/KeertiKarn/LeetCode/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KeertiKarn/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KeertiKarn/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1400-construct-k-palindrome-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KeertiKarn/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1512-number-of-good-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KeertiKarn/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KeertiKarn/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/KeertiKarn/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1512-number-of-good-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KeertiKarn/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1753-maximum-score-from-removing-stones](https://github.com/KeertiKarn/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/KeertiKarn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KeertiKarn/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1512-number-of-good-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KeertiKarn/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
