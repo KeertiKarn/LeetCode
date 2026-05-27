@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/KeertiKarn/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/KeertiKarn/LeetCode/tree/master/3174-clear-digits) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/KeertiKarn/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3498-reverse-degree-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/KeertiKarn/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/KeertiKarn/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/KeertiKarn/LeetCode/tree/master/3174-clear-digits) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/KeertiKarn/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3477-fruits-into-baskets-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3819-rotate-non-negative-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bit Manipulation
