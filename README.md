@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/KeertiKarn/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/KeertiKarn/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3884-first-matching-character-from-both-ends](https://github.com/KeertiKarn/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3889-mirror-frequency-distance](https://github.com/KeertiKarn/LeetCode/tree/master/3889-mirror-frequency-distance) |
 ## Array
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/KeertiKarn/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/KeertiKarn/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3889-mirror-frequency-distance](https://github.com/KeertiKarn/LeetCode/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
