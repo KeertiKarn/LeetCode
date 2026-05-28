@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KeertiKarn/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2785-sort-vowels-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [2810-faulty-keyboard](https://github.com/KeertiKarn/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/KeertiKarn/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KeertiKarn/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/KeertiKarn/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2751-robot-collisions](https://github.com/KeertiKarn/LeetCode/tree/master/2751-robot-collisions) |
+| [2810-faulty-keyboard](https://github.com/KeertiKarn/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3028-ant-on-the-boundary](https://github.com/KeertiKarn/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/KeertiKarn/LeetCode/tree/master/3174-clear-digits) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/KeertiKarn/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
