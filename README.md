@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KeertiKarn/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KeertiKarn/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/KeertiKarn/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/KeertiKarn/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/KeertiKarn/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KeertiKarn/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KeertiKarn/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1668-maximum-repeating-substring](https://github.com/KeertiKarn/LeetCode/tree/master/1668-maximum-repeating-substring) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/KeertiKarn/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Counting
 |  |
 | ------- |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/KeertiKarn/LeetCode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/KeertiKarn/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/KeertiKarn/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2751-robot-collisions](https://github.com/KeertiKarn/LeetCode/tree/master/2751-robot-collisions) |
 | [3174-clear-digits](https://github.com/KeertiKarn/LeetCode/tree/master/3174-clear-digits) |
 | [3834-merge-adjacent-equal-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2611-mice-and-cheese](https://github.com/KeertiKarn/LeetCode/tree/master/2611-mice-and-cheese) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/KeertiKarn/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
