@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/KeertiKarn/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2315-count-asterisks](https://github.com/KeertiKarn/LeetCode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/KeertiKarn/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/KeertiKarn/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KeertiKarn/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KeertiKarn/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/KeertiKarn/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
