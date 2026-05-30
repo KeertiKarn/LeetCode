@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KeertiKarn/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KeertiKarn/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KeertiKarn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/KeertiKarn/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/KeertiKarn/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KeertiKarn/LeetCode/tree/master/0735-asteroid-collision) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KeertiKarn/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KeertiKarn/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
