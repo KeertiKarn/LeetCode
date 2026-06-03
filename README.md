@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KeertiKarn/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KeertiKarn/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/KeertiKarn/LeetCode/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KeertiKarn/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/KeertiKarn/LeetCode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/KeertiKarn/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KeertiKarn/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/KeertiKarn/LeetCode/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/KeertiKarn/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/KeertiKarn/LeetCode/tree/master/0645-set-mismatch) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/KeertiKarn/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/KeertiKarn/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0475-heaters](https://github.com/KeertiKarn/LeetCode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/KeertiKarn/LeetCode/tree/master/0875-koko-eating-bananas) |
