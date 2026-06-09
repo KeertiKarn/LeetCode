@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/KeertiKarn/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KeertiKarn/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/KeertiKarn/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2418-sort-the-people](https://github.com/KeertiKarn/LeetCode/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KeertiKarn/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KeertiKarn/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/KeertiKarn/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/KeertiKarn/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/KeertiKarn/LeetCode/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KeertiKarn/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KeertiKarn/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KeertiKarn/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2364-count-number-of-bad-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2418-sort-the-people](https://github.com/KeertiKarn/LeetCode/tree/master/2418-sort-the-people) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/KeertiKarn/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2540-minimum-common-value](https://github.com/KeertiKarn/LeetCode/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KeertiKarn/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KeertiKarn/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/KeertiKarn/LeetCode/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KeertiKarn/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2611-mice-and-cheese](https://github.com/KeertiKarn/LeetCode/tree/master/2611-mice-and-cheese) |
