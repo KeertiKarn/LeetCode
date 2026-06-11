@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/KeertiKarn/LeetCode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/KeertiKarn/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/KeertiKarn/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KeertiKarn/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KeertiKarn/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/KeertiKarn/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/KeertiKarn/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/KeertiKarn/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KeertiKarn/LeetCode/tree/master/0735-asteroid-collision) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KeertiKarn/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/KeertiKarn/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
