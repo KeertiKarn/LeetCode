@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KeertiKarn/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/KeertiKarn/LeetCode/tree/master/3516-find-closest-person) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KeertiKarn/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/KeertiKarn/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/KeertiKarn/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/KeertiKarn/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KeertiKarn/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0437-path-sum-iii](https://github.com/KeertiKarn/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/KeertiKarn/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KeertiKarn/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Stack
 |  |
 | ------- |
