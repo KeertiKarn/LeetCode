@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/KeertiKarn/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/KeertiKarn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KeertiKarn/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KeertiKarn/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KeertiKarn/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KeertiKarn/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/KeertiKarn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/KeertiKarn/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KeertiKarn/LeetCode/tree/master/0049-group-anagrams) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KeertiKarn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KeertiKarn/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KeertiKarn/LeetCode/tree/master/0062-unique-paths) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KeertiKarn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KeertiKarn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeertiKarn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -773,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KeertiKarn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KeertiKarn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/KeertiKarn/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0402-remove-k-digits) |
