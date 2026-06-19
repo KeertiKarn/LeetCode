@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1881-maximum-value-after-insertion](https://github.com/KeertiKarn/LeetCode/tree/master/1881-maximum-value-after-insertion) |
 | [1903-largest-odd-number-in-string](https://github.com/KeertiKarn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/KeertiKarn/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KeertiKarn/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KeertiKarn/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2027-minimum-moves-to-convert-string](https://github.com/KeertiKarn/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/KeertiKarn/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/KeertiKarn/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2032-two-out-of-three](https://github.com/KeertiKarn/LeetCode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2121-intervals-between-identical-elements](https://github.com/KeertiKarn/LeetCode/tree/master/2121-intervals-between-identical-elements) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KeertiKarn/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/KeertiKarn/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/KeertiKarn/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2351-first-letter-to-appear-twice](https://github.com/KeertiKarn/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
