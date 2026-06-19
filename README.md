@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KeertiKarn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KeertiKarn/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/KeertiKarn/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KeertiKarn/LeetCode/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KeertiKarn/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0299-bulls-and-cows](https://github.com/KeertiKarn/LeetCode/tree/master/0299-bulls-and-cows) |
