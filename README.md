@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KeertiKarn/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/KeertiKarn/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3819-rotate-non-negative-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3819-rotate-non-negative-elements) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/KeertiKarn/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/KeertiKarn/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KeertiKarn/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KeertiKarn/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/KeertiKarn/LeetCode/tree/master/2615-sum-of-distances) |
 | [3028-ant-on-the-boundary](https://github.com/KeertiKarn/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KeertiKarn/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/KeertiKarn/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3848-check-digitorial-permutation](https://github.com/KeertiKarn/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3889-mirror-frequency-distance](https://github.com/KeertiKarn/LeetCode/tree/master/3889-mirror-frequency-distance) |
 ## Memoization
@@ -965,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KeertiKarn/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1004,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KeertiKarn/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
