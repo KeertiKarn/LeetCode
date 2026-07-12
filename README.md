@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/KeertiKarn/LeetCode/tree/master/1345-jump-game-iv) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/KeertiKarn/LeetCode/tree/master/1054-distant-barcodes) |
 | [1189-maximum-number-of-balloons](https://github.com/KeertiKarn/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/KeertiKarn/LeetCode/tree/master/1345-jump-game-iv) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/KeertiKarn/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/KeertiKarn/LeetCode/tree/master/1054-distant-barcodes) |
 | [1288-remove-covered-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KeertiKarn/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
