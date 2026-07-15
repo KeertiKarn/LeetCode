@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KeertiKarn/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/KeertiKarn/LeetCode/tree/master/3516-find-closest-person) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KeertiKarn/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KeertiKarn/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/KeertiKarn/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KeertiKarn/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1097,4 +1098,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KeertiKarn/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KeertiKarn/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
