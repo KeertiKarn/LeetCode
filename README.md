@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KeertiKarn/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2364-count-number-of-bad-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2413-smallest-even-multiple](https://github.com/KeertiKarn/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/KeertiKarn/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3227-vowels-game-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3227-vowels-game-in-a-string) |
@@ -1110,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KeertiKarn/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/KeertiKarn/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KeertiKarn/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
