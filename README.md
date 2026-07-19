@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2364-count-number-of-bad-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2413-smallest-even-multiple](https://github.com/KeertiKarn/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/KeertiKarn/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/KeertiKarn/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3227-vowels-game-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3227-vowels-game-in-a-string) |
