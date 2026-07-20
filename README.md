@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1054-distant-barcodes](https://github.com/KeertiKarn/LeetCode/tree/master/1054-distant-barcodes) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/KeertiKarn/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1260-shift-2d-grid](https://github.com/KeertiKarn/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/KeertiKarn/LeetCode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/KeertiKarn/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KeertiKarn/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/KeertiKarn/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KeertiKarn/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KeertiKarn/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/KeertiKarn/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KeertiKarn/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/KeertiKarn/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1260-shift-2d-grid](https://github.com/KeertiKarn/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
