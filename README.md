@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/KeertiKarn/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/KeertiKarn/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeertiKarn/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/KeertiKarn/LeetCode/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/KeertiKarn/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/KeertiKarn/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeertiKarn/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/KeertiKarn/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KeertiKarn/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0788-rotated-digits) |
 | [0908-smallest-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
