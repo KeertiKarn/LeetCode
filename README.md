@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/KeertiKarn/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1260-shift-2d-grid](https://github.com/KeertiKarn/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/KeertiKarn/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1331-rank-transform-of-an-array) |
