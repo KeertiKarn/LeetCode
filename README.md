@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/KeertiKarn/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/KeertiKarn/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/KeertiKarn/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/KeertiKarn/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0788-rotated-digits) |
 | [0908-smallest-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/KeertiKarn/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KeertiKarn/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/KeertiKarn/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1512-number-of-good-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1512-number-of-good-pairs) |
