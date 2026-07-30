@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/KeertiKarn/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KeertiKarn/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KeertiKarn/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KeertiKarn/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/KeertiKarn/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/KeertiKarn/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KeertiKarn/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KeertiKarn/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/KeertiKarn/LeetCode/tree/master/3516-find-closest-person) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KeertiKarn/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
