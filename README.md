@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/KeertiKarn/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KeertiKarn/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KeertiKarn/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KeertiKarn/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/KeertiKarn/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KeertiKarn/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KeertiKarn/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/KeertiKarn/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KeertiKarn/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/KeertiKarn/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2833-furthest-point-from-origin](https://github.com/KeertiKarn/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3527-find-the-most-common-response](https://github.com/KeertiKarn/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/KeertiKarn/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -976,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/KeertiKarn/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KeertiKarn/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
