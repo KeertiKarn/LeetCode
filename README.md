@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/KeertiKarn/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/KeertiKarn/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KeertiKarn/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1400-construct-k-palindrome-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1405-longest-happy-string](https://github.com/KeertiKarn/LeetCode/tree/master/1405-longest-happy-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/KeertiKarn/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
