@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1881-maximum-value-after-insertion](https://github.com/KeertiKarn/LeetCode/tree/master/1881-maximum-value-after-insertion) |
 | [1903-largest-odd-number-in-string](https://github.com/KeertiKarn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/KeertiKarn/LeetCode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/KeertiKarn/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KeertiKarn/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KeertiKarn/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/KeertiKarn/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1840-maximum-building-height](https://github.com/KeertiKarn/LeetCode/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/KeertiKarn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/KeertiKarn/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KeertiKarn/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/KeertiKarn/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2119-a-number-after-a-double-reversal](https://github.com/KeertiKarn/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KeertiKarn/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1881-maximum-value-after-insertion](https://github.com/KeertiKarn/LeetCode/tree/master/1881-maximum-value-after-insertion) |
 | [1903-largest-odd-number-in-string](https://github.com/KeertiKarn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/KeertiKarn/LeetCode/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/KeertiKarn/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/KeertiKarn/LeetCode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KeertiKarn/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KeertiKarn/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KeertiKarn/LeetCode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KeertiKarn/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/KeertiKarn/LeetCode/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/KeertiKarn/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3227-vowels-game-in-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Enumeration
