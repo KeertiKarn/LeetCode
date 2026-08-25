@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/KeertiKarn/LeetCode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KeertiKarn/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/KeertiKarn/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/KeertiKarn/LeetCode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KeertiKarn/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/KeertiKarn/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/KeertiKarn/LeetCode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/KeertiKarn/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KeertiKarn/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1143,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/KeertiKarn/LeetCode/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/KeertiKarn/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Queue
@@ -1212,4 +1216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KeertiKarn/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
