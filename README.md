@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/KeertiKarn/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/KeertiKarn/LeetCode/tree/master/0925-long-pressed-name) |
 | [0948-bag-of-tokens](https://github.com/KeertiKarn/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1089-duplicate-zeros](https://github.com/KeertiKarn/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1754-largest-merge-of-two-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/KeertiKarn/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KeertiKarn/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1054-distant-barcodes](https://github.com/KeertiKarn/LeetCode/tree/master/1054-distant-barcodes) |
+| [1089-duplicate-zeros](https://github.com/KeertiKarn/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/KeertiKarn/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1260-shift-2d-grid](https://github.com/KeertiKarn/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
