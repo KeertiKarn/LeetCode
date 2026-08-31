@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/KeertiKarn/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KeertiKarn/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KeertiKarn/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
 | ------- |
