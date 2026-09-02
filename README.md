@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/KeertiKarn/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KeertiKarn/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/KeertiKarn/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3848-check-digitorial-permutation](https://github.com/KeertiKarn/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KeertiKarn/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
