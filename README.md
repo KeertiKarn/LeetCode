@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/KeertiKarn/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2270-number-of-ways-to-split-array](https://github.com/KeertiKarn/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KeertiKarn/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/KeertiKarn/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KeertiKarn/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KeertiKarn/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/KeertiKarn/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KeertiKarn/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/KeertiKarn/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KeertiKarn/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KeertiKarn/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/KeertiKarn/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KeertiKarn/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KeertiKarn/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KeertiKarn/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/KeertiKarn/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
