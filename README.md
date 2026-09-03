@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/KeertiKarn/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KeertiKarn/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/KeertiKarn/LeetCode/tree/master/1861-rotating-the-box) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/KeertiKarn/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/KeertiKarn/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/KeertiKarn/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/KeertiKarn/LeetCode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/KeertiKarn/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KeertiKarn/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1881-maximum-value-after-insertion](https://github.com/KeertiKarn/LeetCode/tree/master/1881-maximum-value-after-insertion) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/KeertiKarn/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/KeertiKarn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/KeertiKarn/LeetCode/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/KeertiKarn/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
