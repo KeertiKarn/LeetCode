@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KeertiKarn/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/KeertiKarn/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/KeertiKarn/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeertiKarn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KeertiKarn/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KeertiKarn/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KeertiKarn/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/KeertiKarn/LeetCode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KeertiKarn/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
