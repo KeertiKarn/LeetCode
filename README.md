@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KeertiKarn/LeetCode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KeertiKarn/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/KeertiKarn/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/KeertiKarn/LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/KeertiKarn/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/KeertiKarn/LeetCode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/KeertiKarn/LeetCode/tree/master/1009-complement-of-base-10-integer) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/KeertiKarn/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KeertiKarn/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KeertiKarn/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/KeertiKarn/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/KeertiKarn/LeetCode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KeertiKarn/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/KeertiKarn/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/KeertiKarn/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KeertiKarn/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KeertiKarn/LeetCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/KeertiKarn/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KeertiKarn/LeetCode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KeertiKarn/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
