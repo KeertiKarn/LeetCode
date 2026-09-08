@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/KeertiKarn/LeetCode/tree/master/1405-longest-happy-string) |
 | [1408-string-matching-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/KeertiKarn/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1446-consecutive-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KeertiKarn/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/KeertiKarn/LeetCode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/KeertiKarn/LeetCode/tree/master/1544-make-the-string-great) |
