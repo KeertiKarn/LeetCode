@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/KeertiKarn/LeetCode/tree/master/1345-jump-game-iv) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KeertiKarn/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KeertiKarn/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KeertiKarn/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/KeertiKarn/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KeertiKarn/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KeertiKarn/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KeertiKarn/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/KeertiKarn/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/KeertiKarn/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/KeertiKarn/LeetCode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/KeertiKarn/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KeertiKarn/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2032-two-out-of-three](https://github.com/KeertiKarn/LeetCode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/KeertiKarn/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/KeertiKarn/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/KeertiKarn/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KeertiKarn/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KeertiKarn/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
