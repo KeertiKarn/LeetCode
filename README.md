@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KeertiKarn/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KeertiKarn/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KeertiKarn/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/KeertiKarn/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3457-eat-pizzas](https://github.com/KeertiKarn/LeetCode/tree/master/3457-eat-pizzas) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KeertiKarn/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/KeertiKarn/LeetCode/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KeertiKarn/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KeertiKarn/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KeertiKarn/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1668-maximum-repeating-substring](https://github.com/KeertiKarn/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KeertiKarn/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KeertiKarn/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
