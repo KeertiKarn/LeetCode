@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/KeertiKarn/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/KeertiKarn/LeetCode/tree/master/0822-card-flipping-game) |
 | [0826-most-profit-assigning-work](https://github.com/KeertiKarn/LeetCode/tree/master/0826-most-profit-assigning-work) |
+| [0835-image-overlap](https://github.com/KeertiKarn/LeetCode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/KeertiKarn/LeetCode/tree/master/0846-hand-of-straights) |
 | [0849-maximize-distance-to-closest-person](https://github.com/KeertiKarn/LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0853-car-fleet](https://github.com/KeertiKarn/LeetCode/tree/master/0853-car-fleet) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/KeertiKarn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/KeertiKarn/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/KeertiKarn/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/KeertiKarn/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
