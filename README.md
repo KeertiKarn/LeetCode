@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/KeertiKarn/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/KeertiKarn/LeetCode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/KeertiKarn/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/KeertiKarn/LeetCode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/KeertiKarn/LeetCode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/KeertiKarn/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -1335,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/KeertiKarn/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/KeertiKarn/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Tournament Sort
 |  |
