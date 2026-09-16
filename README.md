@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/KeertiKarn/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1512-number-of-good-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KeertiKarn/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KeertiKarn/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1753-maximum-score-from-removing-stones](https://github.com/KeertiKarn/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1840-maximum-building-height](https://github.com/KeertiKarn/LeetCode/tree/master/1840-maximum-building-height) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/KeertiKarn/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KeertiKarn/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KeertiKarn/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KeertiKarn/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/KeertiKarn/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KeertiKarn/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/KeertiKarn/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/KeertiKarn/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KeertiKarn/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KeertiKarn/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/KeertiKarn/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KeertiKarn/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KeertiKarn/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -970,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KeertiKarn/LeetCode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KeertiKarn/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Matrix
 |  |
 | ------- |
