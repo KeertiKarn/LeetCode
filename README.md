@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/KeertiKarn/LeetCode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/KeertiKarn/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KeertiKarn/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1572-matrix-diagonal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1598-crawler-log-folder](https://github.com/KeertiKarn/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1642-furthest-building-you-can-reach](https://github.com/KeertiKarn/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/KeertiKarn/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KeertiKarn/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KeertiKarn/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/KeertiKarn/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/KeertiKarn/LeetCode/tree/master/1861-rotating-the-box) |
