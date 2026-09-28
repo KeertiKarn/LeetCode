@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/KeertiKarn/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2129-capitalize-the-title](https://github.com/KeertiKarn/LeetCode/tree/master/2129-capitalize-the-title) |
 | [2182-construct-string-with-repeat-limit](https://github.com/KeertiKarn/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/KeertiKarn/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/KeertiKarn/LeetCode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/KeertiKarn/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KeertiKarn/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KeertiKarn/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KeertiKarn/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/KeertiKarn/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/KeertiKarn/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KeertiKarn/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/KeertiKarn/LeetCode/tree/master/2239-find-closest-number-to-zero) |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/KeertiKarn/LeetCode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/KeertiKarn/LeetCode/tree/master/1668-maximum-repeating-substring) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/KeertiKarn/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Queue
 |  |
 | ------- |
