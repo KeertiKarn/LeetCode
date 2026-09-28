@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KeertiKarn/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KeertiKarn/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KeertiKarn/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KeertiKarn/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/KeertiKarn/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/KeertiKarn/LeetCode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/KeertiKarn/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/KeertiKarn/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KeertiKarn/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KeertiKarn/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KeertiKarn/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KeertiKarn/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KeertiKarn/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KeertiKarn/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
