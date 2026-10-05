@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/KeertiKarn/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/KeertiKarn/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0821-shortest-distance-to-a-character](https://github.com/KeertiKarn/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/KeertiKarn/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KeertiKarn/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/KeertiKarn/LeetCode/tree/master/0925-long-pressed-name) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/KeertiKarn/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KeertiKarn/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/KeertiKarn/LeetCode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/KeertiKarn/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KeertiKarn/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/KeertiKarn/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -1417,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KeertiKarn/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KeertiKarn/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
