@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KeertiKarn/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/KeertiKarn/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/KeertiKarn/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/KeertiKarn/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3889-mirror-frequency-distance](https://github.com/KeertiKarn/LeetCode/tree/master/3889-mirror-frequency-distance) |
 ## Array
