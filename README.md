@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/KeertiKarn/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1078-occurrences-after-bigram](https://github.com/KeertiKarn/LeetCode/tree/master/1078-occurrences-after-bigram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KeertiKarn/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KeertiKarn/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/KeertiKarn/LeetCode/tree/master/1108-defanging-an-ip-address) |
