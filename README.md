@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/KeertiKarn/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/KeertiKarn/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0821-shortest-distance-to-a-character](https://github.com/KeertiKarn/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/KeertiKarn/LeetCode/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/KeertiKarn/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/KeertiKarn/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KeertiKarn/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
