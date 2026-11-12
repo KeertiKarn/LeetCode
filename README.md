@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KeertiKarn/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3028-ant-on-the-boundary](https://github.com/KeertiKarn/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KeertiKarn/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KeertiKarn/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/KeertiKarn/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/KeertiKarn/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KeertiKarn/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
